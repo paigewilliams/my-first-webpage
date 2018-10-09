@@ -1,29 +1,29 @@
-#_My First Webpage_
+# My First Webpage_
 
-####_Sample HTML site, 10/8/2018_
+#### Sample HTML site, 10/8/2018
 
-####_By Paige Williams and Robert Lee_
+#### By Paige Williams and Robert Lee
 
-##_Description_
+## Description
 
-###_This is a site to practice HTML skills_
+### This is a site to practice HTML skills
 
-##_Setup/Installation Requirements
+## Setup/Installation Requirements
 
-*Load HTML page into web browser_
+* Load HTML page into web browser
 
-##_Known Bugs_
+## Known Bugs
 
-*_No known Bugs_
+* No known Bugs
 
-##_Support and contact details_
+## Support and contact details
 
-*_If any bugs are found please contact Paige Williams at paw145@humboldt.edu
+* If any bugs are found please contact Paige Williams at paw145@humboldt.edu
 
-##_Technologies Used_
+## Technologies Used
 
-*HTML_
+* HTML
 
-###_License_
+### License
 
-Copyright (c) 2016 Paige Williams and Robert Lee_
+Copyright (c) 2016 Paige Williams and Robert Lee
