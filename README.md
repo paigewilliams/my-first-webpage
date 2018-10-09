@@ -1,4 +1,4 @@
-# My First Webpage_
+# My First Webpage
 
 #### Sample HTML site, 10/8/2018
 
@@ -27,3 +27,5 @@
 ### License
 
 Copyright (c) 2016 Paige Williams and Robert Lee
+
+* This software is licensed under the MIT license
